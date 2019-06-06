@@ -86,7 +86,7 @@ function wordsWithB(words) {
     var firstLetter = currentThing[0];
     if (firstLetter === "b") {
       answer.push(currentThing);
+    }
   }
- }
  return answer
 }
